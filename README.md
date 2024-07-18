@@ -3,7 +3,7 @@
 I am a final-year IT student at IIIT, Vadodara, specializing in Full Stack MERN development and passionate about UI/UX design. I'm excited to collaborate on innovative projects!
 
 ## 💫 About Me:
-I am eager to collaborate on Full Stack Web Development projects.  
+I am a passionate web developer with a talent for creating clean, user-friendly websites fueled by my love for all things tech. With my skills in diagnosing technical issues and developing innovative solutions, I am always willing to be put to the challenge and to collaborate on Full Stack Web Development projects.  
 📫 Reach me @ tkshitij216@gmail.com
 
 <!--
