@@ -7,8 +7,8 @@ I am a passionate web developer with a talent for creating clean, user-friendly 
 📫 Reach me @ tkshitij216@gmail.com
 
 <!--
-## My Socials:
-[<img src="path/to/image.png">](https://www.linkedin.com/in/kshitij-tiwari-a9a528235/)
+## My Skills:
+<img src="./images/css.svg" width="50">
 -->
 
 <!--
@@ -24,4 +24,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+<!--
+[<img src="./images/css.svg" width="50">](https://www.linkedin.com/in/kshitij-tiwari-a9a528235/)
 -->
