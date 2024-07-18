@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋, I'm Kshitij Tiwari
+***
+I am a final-year IT student at IIIT, Vadodara, specializing in Full Stack MERN development and passionate about UI/UX design. I'm excited to collaborate on innovative projects!
+
+## 💫 About Me:
+I am eager to collaborate on Full Stack Web Development projects.  
+📫 Reach me @ tkshitij216@gmail.com
 
 <!--
 **LightSync24/LightSync24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
