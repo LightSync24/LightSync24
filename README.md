@@ -7,6 +7,11 @@ I am a passionate web developer with a talent for creating clean, user-friendly 
 📫 Reach me @ tkshitij216@gmail.com
 
 <!--
+## My Socials:
+[<img src="path/to/image.png">](https://www.linkedin.com/in/kshitij-tiwari-a9a528235/)
+-->
+
+<!--
 **LightSync24/LightSync24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
