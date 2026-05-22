@@ -1,9 +1,7 @@
 ### Hi there 👋, I'm Kshitij Tiwari
 ***
-I am a final-year IT student at IIIT, Vadodara, specializing in Full Stack MERN development and passionate about UI/UX design. I'm excited to collaborate on innovative projects!
+A passionate Data Engineer at Sigmoid Analytics. Snowflake Snowpro Core certified with expertise in building scalable ETL pipelines using Azure, PySpark, and Medallion architecture. I specialize in transforming raw data into high-impact, real-world solutions. Committed to technical excellence and continuous learning, I focus on delivering innovative, production-ready data products.
 
-## 💫 About Me:
-I am a passionate web developer with a talent for creating clean, user-friendly websites fueled by my love for all things tech. With my skills in diagnosing technical issues and developing innovative solutions, I am always willing to be put to the challenge and to collaborate on Full Stack Web Development projects.  
 📫 Reach me @ tkshitij216@gmail.com
 
 <!--
